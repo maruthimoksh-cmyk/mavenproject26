@@ -8,6 +8,7 @@
   <name>05-mavanproject</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+	  <!-- this project no 5 -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
